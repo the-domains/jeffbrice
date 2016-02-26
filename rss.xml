@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jeffbrice]]></title>
+        <description><![CDATA[Jeffbrice]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 21:29:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cairns in the stream]]></title>
+            <description><![CDATA[<article><h1>Cairns in the stream</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2da815d49fe5e6402f2c7a62094176053b9fb91e.png"></article>]]></description>
+            <link>undefinedcairns-in-the-stream/index.html</link>
+            <guid isPermaLink="false">af285f4b-45d9-4953-822a-45e4d24409bd</guid>
+            <pubDate>Fri, 26 Feb 2016 21:29:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
