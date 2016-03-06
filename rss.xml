@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Jeffbrice]]></title>
         <description><![CDATA[Jeffbrice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeffbrice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 21:29:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 16:57:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeffbrice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cairns in the stream]]></title>
             <description><![CDATA[<article><h1>Cairns in the stream</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2da815d49fe5e6402f2c7a62094176053b9fb91e.png"></article>]]></description>
-            <link>undefinedcairns-in-the-stream/index.html</link>
+            <link>https://thegrid.ai/jeffbrice/cairns-in-the-stream/index.html</link>
             <guid isPermaLink="false">af285f4b-45d9-4953-822a-45e4d24409bd</guid>
             <pubDate>Fri, 26 Feb 2016 21:29:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mocap at Cornish dancer Juju]]></title>
+            <description><![CDATA[<article><h1>Mocap at Cornish dancer Juju</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdf0776241da861e198fb8e10f64ea4b30b7d0ab.png"></article>]]></description>
+            <link>https://thegrid.ai/jeffbrice/mocap-at-cornish-dancer-juju/index.html</link>
+            <guid isPermaLink="false">a3c87ee6-bc97-493c-8d00-e895d55be256</guid>
+            <pubDate>Sun, 06 Mar 2016 16:57:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
